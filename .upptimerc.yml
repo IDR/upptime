@@ -101,13 +101,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://github.com/ome/www.openmicroscopy.org/blob/master/img/logos/idr-logo.svg
+  logoUrl: https://raw.githubusercontent.com/ome/www.openmicroscopy.org/master/img/logos/idr-logo.svg
   name: IDR status
   introTitle: "Welcome to the status page of IDR."
-  introMessage: Contact OME on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/IDRnews) to report issues
+  introMessage: Contact IDR on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/IDRnews) to report issues
   navbar:
-    - title: Status
+    - title: IDR Status
       href: /upptime
+    - title: OME Status
+      href: https://ome.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
