@@ -797,18 +797,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "idr-tracking-system",
     "status": "down",
-    "uptime": "82.77%",
-    "uptimeDay": "82.77%",
-    "uptimeWeek": "82.77%",
-    "uptimeMonth": "82.77%",
-    "uptimeYear": "82.77%",
+    "uptime": "68.35%",
+    "uptimeDay": "68.35%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "68.35%",
+    "uptimeYear": "68.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 1
     }
   }
 ]
