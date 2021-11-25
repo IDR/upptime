@@ -106,8 +106,6 @@ status-website:
   introTitle: "Welcome to the status page of IDR."
   introMessage: Contact IDR on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/IDRnews) to report issues
   navbar:
-    - title: IDR Status
-      href: /upptime
     - title: OME Status
       href: https://ome.github.io/upptime/
     - title: GitHub
