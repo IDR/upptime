@@ -104,7 +104,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ome/www.openmicroscopy.org/master/img/logos/idr-logo.svg
   name: IDR status
   introTitle: "Welcome to the status page of IDR."
-  introMessage: Contact IDR on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/IDRnews) to report issues
+  introMessage: Contact IDR on the [image.sc](https://forum.image.sc/tag/idr) forum or [Twitter](https://twitter.com/IDRnews) to report issues
   navbar:
     - title: OME Status
       href: https://ome.github.io/upptime/
