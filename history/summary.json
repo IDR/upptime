@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.73%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 609,
     "timeDay": 486,
     "timeWeek": 572,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2021-12-09": 29
+      "2021-12-10": 25,
+      "2021-12-09": 30
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/itr.openmicroscopy.org",
     "slug": "itr",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 773,
     "timeDay": 744,
     "timeWeek": 723,
     "timeMonth": 773,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2021-12-09": 21
+      "2021-12-10": 25,
+      "2021-12-09": 22
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-api",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 20
+      "2021-12-10": 25,
+      "2021-12-09": 21
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-submission",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 179,
     "timeDay": 166,
     "timeWeek": 173,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 20
+      "2021-12-10": 25,
+      "2021-12-09": 21
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://favicons.githubusercontent.com/idr-analysis.openmicroscopy.org",
     "slug": "idr-analysis",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 623,
     "timeDay": 687,
     "timeWeek": 634,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2021-12-09": 19
+      "2021-12-10": 25,
+      "2021-12-09": 20
     }
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-jupyter",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.79%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 19
+      "2021-12-10": 25,
+      "2021-12-09": 20
     }
   },
   {
@@ -143,18 +149,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-590686",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.76%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 492,
     "timeDay": 441,
     "timeWeek": 474,
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2021-12-09": 24
+      "2021-12-10": 25,
+      "2021-12-09": 25
     }
   },
   {
@@ -163,18 +170,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-119093",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 330,
     "timeDay": 383,
     "timeWeek": 328,
     "timeMonth": 330,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2021-12-09": 23
+      "2021-12-10": 25,
+      "2021-12-09": 24
     }
   },
   {
@@ -183,18 +191,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-4852",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 319,
     "timeDay": 300,
     "timeWeek": 304,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-12-09": 22
+      "2021-12-10": 25,
+      "2021-12-09": 23
     }
   },
   {
@@ -203,18 +212,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-469267",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 314,
     "timeDay": 304,
     "timeWeek": 304,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2021-12-09": 22
+      "2021-12-10": 25,
+      "2021-12-09": 23
     }
   },
   {
@@ -223,18 +233,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-547609",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 323,
     "timeDay": 318,
     "timeWeek": 312,
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2021-12-09": 21
+      "2021-12-10": 25,
+      "2021-12-09": 22
     }
   },
   {
@@ -243,18 +254,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-820684",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 366,
     "timeDay": 339,
     "timeWeek": 350,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2021-12-09": 15
+      "2021-12-10": 25,
+      "2021-12-09": 17
     }
   },
   {
@@ -263,18 +275,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-37472",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 322,
     "timeDay": 289,
     "timeWeek": 304,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2021-12-09": 15
+      "2021-12-10": 25,
+      "2021-12-09": 16
     }
   },
   {
@@ -283,18 +296,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-45407",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 320,
     "timeDay": 291,
     "timeWeek": 302,
     "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-12-09": 14
+      "2021-12-10": 25,
+      "2021-12-09": 16
     }
   },
   {
@@ -303,18 +317,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-648950",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 362,
     "timeDay": 340,
     "timeWeek": 352,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2021-12-09": 14
+      "2021-12-10": 25,
+      "2021-12-09": 15
     }
   },
   {
@@ -323,18 +338,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-3063667",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 364,
     "timeDay": 321,
     "timeWeek": 342,
     "timeMonth": 364,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2021-12-09": 13
+      "2021-12-10": 25,
+      "2021-12-09": 14
     }
   },
   {
@@ -343,18 +359,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-2849866",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 360,
     "timeDay": 323,
     "timeWeek": 335,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2021-12-09": 13
+      "2021-12-10": 25,
+      "2021-12-09": 14
     }
   },
   {
@@ -363,18 +380,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-1821818",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 363,
     "timeDay": 338,
     "timeWeek": 350,
     "timeMonth": 363,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2021-12-09": 12
+      "2021-12-10": 25,
+      "2021-12-09": 13
     }
   },
   {
@@ -383,18 +401,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-1636543",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 359,
     "timeDay": 327,
     "timeWeek": 339,
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2021-12-09": 12
+      "2021-12-10": 25,
+      "2021-12-09": 13
     }
   },
   {
@@ -403,18 +422,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-1056578",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 317,
     "timeDay": 294,
     "timeWeek": 301,
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2021-12-09": 11
+      "2021-12-10": 25,
+      "2021-12-09": 12
     }
   },
   {
@@ -423,18 +443,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-1029401",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 319,
     "timeDay": 294,
     "timeWeek": 305,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-12-09": 11
+      "2021-12-10": 25,
+      "2021-12-09": 12
     }
   },
   {
@@ -443,18 +464,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-1046336",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 324,
     "timeDay": 300,
     "timeWeek": 309,
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2021-12-09": 10
+      "2021-12-10": 25,
+      "2021-12-09": 11
     }
   },
   {
@@ -463,18 +485,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-dataset-369",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 303,
     "timeDay": 272,
     "timeWeek": 289,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2021-12-09": 10
+      "2021-12-10": 25,
+      "2021-12-09": 11
     }
   },
   {
@@ -483,18 +506,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-1024671",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 322,
     "timeDay": 294,
     "timeWeek": 314,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2021-12-09": 9
+      "2021-12-10": 25,
+      "2021-12-09": 10
     }
   },
   {
@@ -503,18 +527,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-1030579",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 331,
     "timeDay": 301,
     "timeWeek": 310,
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2021-12-09": 9
+      "2021-12-10": 25,
+      "2021-12-09": 10
     }
   },
   {
@@ -523,18 +548,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-dataset-51",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 301,
     "timeDay": 285,
     "timeWeek": 285,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-12-09": 8
+      "2021-12-10": 25,
+      "2021-12-09": 9
     }
   },
   {
@@ -543,18 +569,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-dataset-61",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 303,
     "timeDay": 282,
     "timeWeek": 293,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2021-12-09": 8
+      "2021-12-10": 25,
+      "2021-12-09": 9
     }
   },
   {
@@ -563,18 +590,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-2858266",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 315,
     "timeDay": 305,
     "timeWeek": 302,
     "timeMonth": 315,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2021-12-09": 7
+      "2021-12-10": 25,
+      "2021-12-09": 8
     }
   },
   {
@@ -583,18 +611,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-2895051",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 376,
     "timeDay": 357,
     "timeWeek": 372,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2021-12-09": 7
+      "2021-12-10": 25,
+      "2021-12-09": 8
     }
   },
   {
@@ -603,18 +632,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-3125776",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 314,
     "timeDay": 284,
     "timeWeek": 303,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2021-12-09": 6
+      "2021-12-10": 25,
+      "2021-12-09": 7
     }
   },
   {
@@ -623,18 +653,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-phenotype-cmpo-0000393",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 5
+      "2021-12-10": 25,
+      "2021-12-09": 7
     }
   },
   {
@@ -643,18 +674,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-phenotype-cmpo-0000118",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 5
+      "2021-12-10": 25,
+      "2021-12-09": 6
     }
   },
   {
@@ -663,18 +695,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-phenotype-cmpo-0000140",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 4
+      "2021-12-10": 25,
+      "2021-12-09": 5
     }
   },
   {
@@ -683,18 +716,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-gene-sgol-1",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 4
+      "2021-12-10": 25,
+      "2021-12-09": 5
     }
   },
   {
@@ -703,18 +737,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-gene-car4",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 3
+      "2021-12-10": 25,
+      "2021-12-09": 4
     }
   },
   {
@@ -723,18 +758,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-dataset-153",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 301,
     "timeDay": 275,
     "timeWeek": 296,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-12-09": 3
+      "2021-12-10": 25,
+      "2021-12-09": 4
     }
   },
   {
@@ -743,18 +779,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-1918940",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 309,
     "timeDay": 284,
     "timeWeek": 303,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2021-12-09": 2
+      "2021-12-10": 25,
+      "2021-12-09": 3
     }
   },
   {
@@ -763,18 +800,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-image-1918953",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 307,
     "timeDay": 282,
     "timeWeek": 302,
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2021-12-09": 2
+      "2021-12-10": 25,
+      "2021-12-09": 3
     }
   },
   {
@@ -783,18 +821,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-828419",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 318,
     "timeDay": 290,
     "timeWeek": 305,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2021-12-09": 1
+      "2021-12-10": 25,
+      "2021-12-09": 2
     }
   },
   {
@@ -803,18 +842,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-mineotaur",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 179,
     "timeDay": 167,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2021-12-09": 1
+      "2021-12-10": 25,
+      "2021-12-09": 2
     }
   },
   {
@@ -823,18 +863,19 @@
     "icon": "https://favicons.githubusercontent.com/idr.openmicroscopy.org",
     "slug": "idr-well-592371",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 341,
     "timeDay": 302,
     "timeWeek": 311,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2021-12-09": 0
+      "2021-12-10": 25,
+      "2021-12-09": 1
     }
   },
   {
