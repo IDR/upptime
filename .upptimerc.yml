@@ -89,10 +89,6 @@ sites:
     url: https://idr.openmicroscopy.org/mineotaur/
   - name: IDR (well 592371)
     url: https://idr.openmicroscopy.org/webclient/?show=well-592371
-  - name: IDR notebooks (GitHub)
-    url: https://github.com/IDR/idr-notebooks
-  - name: IDR metadata (GitHub)
-    url: https://github.com/IDR/idr-metadata
   - name: IDR tracking system
     url: $IDR_REDMINE
 
@@ -108,7 +104,9 @@ status-website:
   navbar:
     - title: OME Status
       href: https://ome.github.io/upptime/
-    - title: GitHub
+    - title: GitHub Status
+      href: https://www.githubstatus.com/
+    - title: GitHub repository
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
