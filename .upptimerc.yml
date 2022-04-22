@@ -81,6 +81,8 @@ sites:
     url: https://idr.openmicroscopy.org/webclient/?show=image-1918953
   - name: IDR (well 828419)
     url: https://idr.openmicroscopy.org/webclient/?show=well-828419
+  - name: idr0054 sample image
+    url: https://idr.openmicroscopy.org/webgateway/render_image/5025551/
   - name: IDR (mineotaur)
     url: https://idr.openmicroscopy.org/mineotaur/
   - name: IDR (well 592371)
