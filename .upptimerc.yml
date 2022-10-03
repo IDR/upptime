@@ -87,6 +87,8 @@ sites:
     url: https://idr.openmicroscopy.org/mineotaur/
   - name: IDR (well 592371)
     url: https://idr.openmicroscopy.org/webclient/?show=well-592371
+  - name: IDR OME-NGFF sample plate
+    url: https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.4/idr0001A/2551.zarr/.zattrs
   - name: IDR tracking system
     url: $IDR_REDMINE
 
