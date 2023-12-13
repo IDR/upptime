@@ -1,7 +1,7 @@
 url: https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.4/idr0001A/2551.zarr/.zattrs
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-13T17:34:33.153Z
+status: up
+code: 200
+responseTime: 1225
+lastUpdated: 2023-12-13T20:26:47.268Z
 startTime: 2022-10-03T14:16:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
