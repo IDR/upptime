@@ -1,7 +1,7 @@
 url: $IDR_REDMINE
-status: up
-code: 200
-responseTime: 1124
-lastUpdated: 2024-07-10T23:11:00.146Z
+status: down
+code: 502
+responseTime: 3776
+lastUpdated: 2024-07-11T09:40:11.506Z
 startTime: 2021-11-25T13:32:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
