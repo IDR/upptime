@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/webclient/?show=image-820684
-status: down
-code: 502
-responseTime: 137
-lastUpdated: 2024-08-09T16:40:27.309Z
+status: up
+code: 200
+responseTime: 900
+lastUpdated: 2024-08-09T16:49:46.791Z
 startTime: 2021-11-25T13:31:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
