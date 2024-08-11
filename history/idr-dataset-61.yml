@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/webclient/?show=dataset-61
-status: down
-code: 502
-responseTime: 78
-lastUpdated: 2024-08-11T04:44:47.215Z
+status: up
+code: 200
+responseTime: 521
+lastUpdated: 2024-08-11T05:27:56.146Z
 startTime: 2021-11-25T13:31:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
