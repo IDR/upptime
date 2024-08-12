@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/webclient/?show=well-469267
-status: down
-code: 502
-responseTime: 148
-lastUpdated: 2024-08-12T03:58:30.711Z
+status: up
+code: 200
+responseTime: 602
+lastUpdated: 2024-08-12T04:46:12.004Z
 startTime: 2021-11-25T13:31:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
