@@ -4,11 +4,11 @@
     "url": "https://idr.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.51%",
     "time": 928,
     "timeDay": 1015,
@@ -16,7 +16,7 @@
     "timeMonth": 868,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2024-10-06": 32,
+      "2024-10-06": 37,
       "2024-09-11": 18,
       "2024-08-12": 187,
       "2024-08-11": 573,
@@ -26,7 +26,7 @@
       "2024-08-07": 213,
       "2024-08-04": 45,
       "2024-07-22": 22,
-      "2024-07-03": 32
+      "2024-07-03": 23
     }
   },
   {
@@ -502,11 +502,11 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=image-2849866",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-2849866",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.65%",
     "time": 675,
     "timeDay": 785,
@@ -514,6 +514,7 @@
     "timeMonth": 697,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-10-06": 4,
       "2024-08-12": 188,
       "2024-08-11": 575,
       "2024-08-10": 592,
@@ -525,7 +526,7 @@
       "2024-08-04": 725,
       "2024-07-22": 22,
       "2024-07-03": 59,
-      "2024-06-30": 144
+      "2024-06-30": 126
     }
   },
   {
@@ -533,11 +534,11 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=image-1821818",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-1821818",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.60%",
     "time": 668,
     "timeDay": 641,
@@ -545,6 +546,7 @@
     "timeMonth": 717,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2024-10-06": 3,
       "2024-08-12": 188,
       "2024-08-11": 576,
       "2024-08-10": 592,
@@ -556,7 +558,7 @@
       "2024-08-04": 724,
       "2024-07-22": 22,
       "2024-07-03": 57,
-      "2024-06-30": 178
+      "2024-06-30": 145
     }
   },
   {
