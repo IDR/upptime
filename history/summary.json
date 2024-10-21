@@ -6,16 +6,17 @@
     "slug": "idr",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.49%",
-    "time": 929,
-    "timeDay": 829,
-    "timeWeek": 858,
-    "timeMonth": 879,
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.50%",
+    "time": 928,
+    "timeDay": 786,
+    "timeWeek": 844,
+    "timeMonth": 875,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2024-10-21": 9,
       "2024-10-07": 136,
       "2024-10-06": 49,
       "2024-09-11": 18,
@@ -24,8 +25,7 @@
       "2024-08-10": 585,
       "2024-08-09": 359,
       "2024-08-08": 501,
-      "2024-08-07": 213,
-      "2024-08-04": 45
+      "2024-08-07": 213
     }
   },
   {
@@ -187,16 +187,17 @@
     "slug": "idr-well-590686",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.52%",
     "time": 684,
-    "timeDay": 667,
-    "timeWeek": 826,
-    "timeMonth": 784,
-    "timeYear": 674,
+    "timeDay": 653,
+    "timeWeek": 803,
+    "timeMonth": 780,
+    "timeYear": 673,
     "dailyMinutesDown": {
+      "2024-10-21": 8,
       "2024-10-07": 134,
       "2024-09-11": 17,
       "2024-08-12": 187,
@@ -208,7 +209,7 @@
       "2024-08-04": 43,
       "2024-07-22": 22,
       "2024-07-03": 68,
-      "2024-06-30": 28
+      "2024-06-30": 19
     }
   },
   {
@@ -218,16 +219,17 @@
     "slug": "idr-well-119093",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.52%",
-    "time": 598,
-    "timeDay": 768,
-    "timeWeek": 648,
-    "timeMonth": 613,
+    "time": 597,
+    "timeDay": 710,
+    "timeWeek": 649,
+    "timeMonth": 614,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2024-10-21": 6,
       "2024-10-07": 130,
       "2024-09-11": 15,
       "2024-08-12": 187,
@@ -239,7 +241,7 @@
       "2024-08-04": 42,
       "2024-07-22": 22,
       "2024-07-03": 68,
-      "2024-06-30": 28
+      "2024-06-30": 19
     }
   },
   {
@@ -249,16 +251,17 @@
     "slug": "idr-well-4852",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.52%",
     "time": 583,
-    "timeDay": 573,
-    "timeWeek": 583,
-    "timeMonth": 588,
+    "timeDay": 605,
+    "timeWeek": 590,
+    "timeMonth": 589,
     "timeYear": 579,
     "dailyMinutesDown": {
+      "2024-10-21": 5,
       "2024-10-07": 153,
       "2024-09-11": 14,
       "2024-08-12": 187,
@@ -270,7 +273,7 @@
       "2024-08-04": 48,
       "2024-07-22": 22,
       "2024-07-03": 68,
-      "2024-06-30": 53
+      "2024-06-30": 44
     }
   },
   {
@@ -279,17 +282,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-well-469267",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.37%",
-    "time": 584,
-    "timeDay": 545,
-    "timeWeek": 594,
-    "timeMonth": 585,
+    "uptime": "99.79%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.38%",
+    "time": 583,
+    "timeDay": 705,
+    "timeWeek": 628,
+    "timeMonth": 593,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2024-10-21": 3,
       "2024-10-07": 149,
       "2024-09-11": 12,
       "2024-08-12": 187,
@@ -301,7 +305,7 @@
       "2024-08-04": 39,
       "2024-07-22": 22,
       "2024-07-03": 68,
-      "2024-06-30": 109
+      "2024-06-30": 87
     }
   },
   {
@@ -311,16 +315,17 @@
     "slug": "idr-well-547609",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "98.46%",
     "time": 604,
-    "timeDay": 558,
-    "timeWeek": 743,
-    "timeMonth": 620,
+    "timeDay": 605,
+    "timeWeek": 731,
+    "timeMonth": 621,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2024-10-21": 2,
       "2024-10-07": 147,
       "2024-09-11": 11,
       "2024-08-12": 187,
@@ -334,7 +339,7 @@
       "2024-08-04": 735,
       "2024-07-22": 22,
       "2024-07-03": 67,
-      "2024-06-30": 126
+      "2024-06-30": 109
     }
   },
   {
@@ -1092,7 +1097,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-dataset-153",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
