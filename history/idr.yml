@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org
-status: up
-code: 200
-responseTime: 918
-lastUpdated: 2025-06-17T21:30:31.061Z
+status: down
+code: 502
+responseTime: 556
+lastUpdated: 2025-06-17T21:45:19.355Z
 startTime: 2021-11-25T13:31:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
