@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000393
-status: down
-code: 502
-responseTime: 101
-lastUpdated: 2025-06-28T02:51:41.324Z
+status: up
+code: 200
+responseTime: 697
+lastUpdated: 2025-06-28T03:38:13.611Z
 startTime: 2021-11-25T13:31:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
