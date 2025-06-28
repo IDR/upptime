@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/mapr/gene/?value=Car4
-status: down
-code: 502
-responseTime: 110
-lastUpdated: 2025-06-28T15:15:14.197Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2025-06-28T15:33:30.794Z
 startTime: 2021-11-25T13:31:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
