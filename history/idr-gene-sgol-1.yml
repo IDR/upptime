@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/mapr/gene/?value=SGOL1
-status: down
-code: 502
-responseTime: 99
-lastUpdated: 2025-06-29T08:51:41.539Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2025-06-29T09:27:14.238Z
 startTime: 2021-11-25T13:31:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
