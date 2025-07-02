@@ -4,19 +4,19 @@
     "url": "https://idr.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "95.37%",
-    "uptimeWeek": "87.05%",
-    "uptimeMonth": "95.87%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "98.09%",
     "time": 839,
     "timeDay": 798,
-    "timeWeek": 705,
+    "timeWeek": 708,
     "timeMonth": 732,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2025-07-02": 24,
+      "2025-07-02": 28,
       "2025-07-01": 43,
       "2025-06-30": 11,
       "2025-06-29": 479,
@@ -55,7 +55,7 @@
       "2024-10-07": 136,
       "2024-10-06": 49,
       "2024-09-11": 18,
-      "2024-08-12": 71
+      "2024-08-12": 23
     }
   },
   {
@@ -535,18 +535,19 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=well-37472",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-well-37472",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.05%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "89.52%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "89.53%",
     "time": 541,
     "timeDay": 567,
     "timeWeek": 436,
     "timeMonth": 468,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2025-07-02": 3,
       "2025-06-29": 480,
       "2025-06-28": 555,
       "2025-06-27": 68,
@@ -604,7 +605,7 @@
       "2024-10-07": 141,
       "2024-10-06": 8,
       "2024-08-12": 187,
-      "2024-08-11": 485
+      "2024-08-11": 442
     }
   },
   {
@@ -993,7 +994,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-1821818",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.09%",
     "uptimeMonth": "96.46%",
@@ -1375,10 +1376,10 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=dataset-369",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-dataset-369",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "88.25%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "88.23%",
     "uptimeMonth": "96.29%",
     "uptimeYear": "98.23%",
     "time": 482,
@@ -1387,7 +1388,7 @@
     "timeMonth": 424,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-07-02": 18,
+      "2025-07-02": 20,
       "2025-07-01": 56,
       "2025-06-29": 483,
       "2025-06-28": 560,
@@ -1414,7 +1415,7 @@
       "2024-10-07": 120,
       "2024-10-06": 14,
       "2024-08-12": 188,
-      "2024-08-11": 497
+      "2024-08-11": 488
     }
   },
   {
@@ -1695,7 +1696,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-2895051",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.03%",
     "uptimeMonth": "96.41%",
