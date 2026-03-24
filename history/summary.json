@@ -4,19 +4,19 @@
     "url": "https://idr.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "98.67%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.68%",
     "time": 797,
     "timeDay": 1377,
     "timeWeek": 845,
     "timeMonth": 722,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2026-03-24": 56,
+      "2026-03-24": 61,
       "2026-03-23": 54,
       "2026-03-14": 79,
       "2026-03-10": 65,
@@ -45,7 +45,7 @@
       "2025-06-25": 25,
       "2025-06-23": 18,
       "2025-06-19": 13,
-      "2025-06-18": 163
+      "2025-06-18": 86
     }
   },
   {
@@ -246,11 +246,11 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=well-4852",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-well-4852",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.25%",
     "time": 591,
     "timeDay": 441,
@@ -258,6 +258,7 @@
     "timeMonth": 601,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2026-03-24": 3,
       "2026-03-14": 78,
       "2026-03-10": 62,
       "2026-02-06": 427,
@@ -285,8 +286,7 @@
       "2025-05-16": 21,
       "2025-05-11": 15,
       "2025-05-07": 44,
-      "2025-05-06": 28,
-      "2025-04-22": 15
+      "2025-05-06": 28
     }
   },
   {
@@ -1522,7 +1522,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 398,
     "timeDay": 335,
     "timeWeek": 379,
@@ -1822,7 +1822,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.62%",
+    "uptimeWeek": "90.16%",
     "uptimeMonth": "95.91%",
     "uptimeYear": "99.58%",
     "time": 759,
