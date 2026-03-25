@@ -1332,10 +1332,10 @@
     "url": "https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000393",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-phenotype-cmpo-0000393",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.14%",
     "time": 489,
@@ -1344,6 +1344,7 @@
     "timeMonth": 608,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2026-03-25": 3,
       "2026-03-24": 62,
       "2026-03-14": 39,
       "2026-03-10": 54,
@@ -1368,8 +1369,7 @@
       "2025-06-18": 165,
       "2025-06-17": 272,
       "2025-06-16": 16,
-      "2025-05-07": 44,
-      "2025-05-06": 28
+      "2025-05-07": 44
     }
   },
   {
@@ -1509,7 +1509,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.11%",
     "time": 398,
     "timeDay": 365,
     "timeWeek": 377,
@@ -1807,7 +1807,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.69%",
+    "uptimeWeek": "94.14%",
     "uptimeMonth": "95.91%",
     "uptimeYear": "99.58%",
     "time": 758,
