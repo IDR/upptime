@@ -578,19 +578,19 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=image-3063667",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-3063667",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.96%",
     "time": 745,
     "timeDay": 771,
     "timeWeek": 732,
     "timeMonth": 782,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2026-04-25": 34,
+      "2026-04-25": 38,
       "2026-04-16": 104,
       "2026-04-15": 337,
       "2026-04-13": 229,
@@ -616,7 +616,7 @@
       "2025-06-27": 61,
       "2025-06-19": 13,
       "2025-06-18": 163,
-      "2025-06-17": 104
+      "2025-06-17": 66
     }
   },
   {
@@ -992,7 +992,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-well-1030579",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.97%",
     "uptimeDay": "96.76%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "98.37%",
@@ -1360,10 +1360,10 @@
     "url": "https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000140",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-phenotype-cmpo-0000140",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "98.51%",
     "time": 401,
@@ -1372,7 +1372,7 @@
     "timeMonth": 427,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2026-04-25": 47,
+      "2026-04-25": 49,
       "2026-04-16": 104,
       "2026-04-15": 336,
       "2026-04-13": 515,
@@ -1398,7 +1398,7 @@
       "2025-06-19": 10,
       "2025-06-18": 177,
       "2025-06-17": 283,
-      "2025-05-07": 44
+      "2025-05-07": 9
     }
   },
   {
