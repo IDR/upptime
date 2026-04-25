@@ -1213,18 +1213,19 @@
     "url": "https://idr.openmicroscopy.org/webclient/?show=image-3125776",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-image-3125776",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 561,
     "timeDay": 412,
     "timeWeek": 531,
     "timeMonth": 587,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2026-04-25": 2,
       "2026-04-16": 104,
       "2026-04-15": 336,
       "2026-04-13": 220,
@@ -1251,7 +1252,7 @@
       "2025-06-27": 72,
       "2025-06-19": 12,
       "2025-06-18": 165,
-      "2025-06-17": 252
+      "2025-06-17": 179
     }
   },
   {
