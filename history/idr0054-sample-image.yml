@@ -1,7 +1,7 @@
 url: https://idr.openmicroscopy.org/webgateway/render_image/5025551/
-status: down
-code: 503
-responseTime: 426
-lastUpdated: 2026-05-13T00:02:03.096Z
+status: up
+code: 200
+responseTime: 1240
+lastUpdated: 2026-05-13T19:17:13.929Z
 startTime: 2022-04-22T14:00:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
