@@ -29,8 +29,6 @@ sites:
     url: https://idr.openmicroscopy.org/mapr/gene/?value=SGOL1
   - name: idr0054 sample image
     url: https://idr.openmicroscopy.org/webgateway/render_image/5025551/0/0/?c=1|0:150$FF0000&m=c
-  - name: idr0054 sample image
-    url: https://idr.openmicroscopy.org/webgateway/render_image/5025551/0/0/?c=1|0:150$FF0000&m=c
   - name: IDR OME-NGFF sample plate
     url: https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.4/idr0001A/2551.zarr/.zattrs
   - name: IDR tracking system
