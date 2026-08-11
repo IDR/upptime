@@ -490,17 +490,17 @@
     "url": "$IDR_REDMINE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "idr-tracking-system",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "77.94%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.09%",
     "time": 803,
-    "timeDay": 623,
-    "timeWeek": 753,
-    "timeMonth": 872,
-    "timeYear": 802,
+    "timeDay": 742,
+    "timeWeek": 778,
+    "timeMonth": 875,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-09-02": 39,
       "2025-09-04": 199,
@@ -514,7 +514,7 @@
       "2026-06-02": 896,
       "2026-06-16": 312,
       "2026-07-07": 176,
-      "2026-08-11": 1
+      "2026-08-11": 318
     }
   }
 ]
