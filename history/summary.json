@@ -340,13 +340,13 @@
     "url": "https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000393",
     "icon": "https://icons.duckduckgo.com/ip3/idr.openmicroscopy.org.ico",
     "slug": "idr-phenotype-cmpo-0000393",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "97.98%",
-    "time": 678,
+    "time": 679,
     "timeDay": 1080,
     "timeWeek": 1124,
     "timeMonth": 1117,
@@ -382,7 +382,7 @@
       "2026-05-18": 986,
       "2026-05-17": 1440,
       "2026-05-16": 585,
-      "2026-10-11": 23
+      "2026-10-11": 28
     }
   },
   {
