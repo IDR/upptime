@@ -436,18 +436,20 @@
     "url": "https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.4/idr0001A/2551.zarr/.zattrs",
     "icon": "https://icons.duckduckgo.com/ip3/uk1s3.embassy.ebi.ac.uk.ico",
     "slug": "idr-ome-ngff-sample-plate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 958,
+    "time": 959,
     "timeDay": 1062,
     "timeWeek": 1033,
     "timeMonth": 898,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-18": 1
+    }
   },
   {
     "name": "IDR tracking system",
@@ -457,7 +459,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.42%",
+    "uptimeWeek": "76.74%",
     "uptimeMonth": "90.37%",
     "uptimeYear": "98.31%",
     "time": 837,
